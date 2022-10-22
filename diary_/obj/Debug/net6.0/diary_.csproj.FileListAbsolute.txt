@@ -1,0 +1,15 @@
+D:\Users\keylo\source\repos\diary_\diary_\bin\Debug\net6.0\diary_.exe
+D:\Users\keylo\source\repos\diary_\diary_\bin\Debug\net6.0\diary_.deps.json
+D:\Users\keylo\source\repos\diary_\diary_\bin\Debug\net6.0\diary_.runtimeconfig.json
+D:\Users\keylo\source\repos\diary_\diary_\bin\Debug\net6.0\diary_.dll
+D:\Users\keylo\source\repos\diary_\diary_\bin\Debug\net6.0\diary_.pdb
+D:\Users\keylo\source\repos\diary_\diary_\obj\Debug\net6.0\diary_.csproj.AssemblyReference.cache
+D:\Users\keylo\source\repos\diary_\diary_\obj\Debug\net6.0\diary_.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\keylo\source\repos\diary_\diary_\obj\Debug\net6.0\diary_.AssemblyInfoInputs.cache
+D:\Users\keylo\source\repos\diary_\diary_\obj\Debug\net6.0\diary_.AssemblyInfo.cs
+D:\Users\keylo\source\repos\diary_\diary_\obj\Debug\net6.0\diary_.csproj.CoreCompileInputs.cache
+D:\Users\keylo\source\repos\diary_\diary_\obj\Debug\net6.0\diary_.dll
+D:\Users\keylo\source\repos\diary_\diary_\obj\Debug\net6.0\refint\diary_.dll
+D:\Users\keylo\source\repos\diary_\diary_\obj\Debug\net6.0\diary_.pdb
+D:\Users\keylo\source\repos\diary_\diary_\obj\Debug\net6.0\diary_.genruntimeconfig.cache
+D:\Users\keylo\source\repos\diary_\diary_\obj\Debug\net6.0\ref\diary_.dll
